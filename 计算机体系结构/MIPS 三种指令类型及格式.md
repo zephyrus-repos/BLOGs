@@ -7,6 +7,8 @@ MIPS（Microprocessor withoutInterlockedPipelineStages），是一种采取精�
 - I型：立即数型指令
 - J型：跳转型指令
 
+![RISC、CISC、VLIW指令编码特点](images/inst_coding.png)
+
 下文中出现的所有指令的含义可自行bing或google。
 
 ## R型指令
